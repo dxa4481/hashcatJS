@@ -14,7 +14,7 @@
   "authors": [
     "Dylan Ayrey <dxa4481@rit.edu>"
   ],
-  "license": "GPLv2",
+  "license": "GPL v2",
   "repository": {
 	  "type": "git",
 	  "url": "git://github.com/dxa4481/hashcatJS.git"
